@@ -1,7 +1,7 @@
 ---
-title: Hello World!
-featuredImage: /images/uploads/isabella juskova.jpg
-subtitle: This is the home page subtitle
+title: MLIR
+featuredImage: /images/uploads/mlir_1.png
+subtitle: MLIR
 meta:
   title: ''
 ---
