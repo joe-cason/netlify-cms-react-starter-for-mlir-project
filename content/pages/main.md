@@ -1,7 +1,4 @@
 ---
-title: MLIR
-featuredImage: /images/uploads/mlir_1.png
-subtitle: MLIR
-meta:
-  title: ''
+featuredImage: /images/uploads/card-og.png
 ---
+Restaurant main page
